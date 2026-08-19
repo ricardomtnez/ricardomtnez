@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Ricardo Martínez
+# Ricardo Martínez Hernández
 ### **Mobile & Full-Stack Software Engineer**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Flutter+%26+Android+Mobile+Specialist;Supabase+%26+PostgreSQL+Architect;Full-Stack+Web+Developer;Building+scalable+%26+real-time+apps" alt="Typing SVG" /></a>
