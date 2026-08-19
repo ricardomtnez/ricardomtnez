@@ -3,7 +3,7 @@
 # 🚀 Ricardo Martínez
 ### **Mobile & Full-Stack Software Engineer**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Flutter+%26+Android+Mobile+Specialist;iOS+App+Store+Published+Developer;Supabase+%26+PostgreSQL+Architect;Full-Stack+Enterprise+Solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Flutter+%26+Android+Mobile+Specialist;iOS+App+Store+Published+Developer;Offline-First+%26+Supabase+Architect;Full-Stack+Enterprise+Solutions" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -15,7 +15,7 @@
 <br/><br/>
 
 <p align="center">
-  Ingeniero de Software especializado en el desarrollo de <b>aplicaciones móviles de producción (Flutter / iOS / Android)</b> y <b>plataformas empresariales Full-Stack</b>. Con experiencia probada en arquitecturas reactivas, integración con APIs externas (Monday.com), sistemas en tiempo real con Supabase y despliegues en producción (App Store).
+  Ingeniero de Software especializado en el desarrollo de <b>aplicaciones móviles de producción (Flutter / iOS / Android)</b>, arquitecturas <b>Offline-First</b> y <b>plataformas empresariales Full-Stack</b>. Con experiencia probada en integración de hardware (cámaras/escáneres QR/impresión), APIs externas (Monday.com), bases de datos reactivas con Supabase/SQLite y despliegues oficiales en la <b>Apple App Store</b>.
 </p>
 
 </div>
@@ -25,14 +25,15 @@
 ### 🛠️ Stack Tecnológico & Habilidades
 
 ```ascii
-Mobile     :  Flutter • Dart • iOS (App Store) • Android (Kotlin/Java) • Riverpod • Clean Architecture
+Mobile     :  Flutter • Dart • iOS (App Store) • Android (Kotlin/Java) • Riverpod 2.6 • Offline-First (SQLite)
 Backend    :  Supabase • PostgreSQL (RLS & Triggers) • TypeScript Edge Functions • Node.js • PHP • REST APIs
-Frontend   :  JavaScript • HTML5 • CSS3 • AngularJS • Bootstrap • Responsive Web Design
+Frontend   :  JavaScript • HTML5 • CSS3 • AngularJS • Bootstrap • SEO & Responsive Web Design
+Hardware   :  Lectores QR / Código de Barras • Impresión Directa y Generación PDF • Cámaras Móviles
 Cloud/Dev  :  Git • GitHub Actions • Docker • Vercel • Supabase Cloud • Scrum / Agile
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,apple,androidstudio,kotlin,supabase,postgres,ts,nodejs,js,html,css,php,git,github,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,apple,androidstudio,kotlin,supabase,postgres,sqlite,ts,nodejs,js,html,css,php,git,github,docker&perline=9" />
 </div>
 
 ---
@@ -48,7 +49,7 @@ Cloud/Dev  :  Git • GitHub Actions • Docker • Vercel • Supabase Cloud �
           <img src="https://img.shields.io/badge/App_Store-En_Producción-black?style=for-the-badge&logo=apple&logoColor=white" />
         </a>
       </p>
-      <p align="center"><i>Aplicación móvil corporativa para gestión de ventas, cotizaciones y operaciones de transporte publicada en la App Store.</i></p>
+      <p align="center"><i>Aplicación móvil corporativa para gestión de ventas y cotizaciones publicada en la App Store.</i></p>
       <ul>
         <li><b>Stack:</b> Flutter, Dart, REST APIs, Monday.com Integration.</li>
         <li><b>Logros:</b> Publicada en producción en Apple App Store, cotizador dinámico de remolques y sincronización directa con el CRM operativo.</li>
@@ -58,14 +59,44 @@ Cloud/Dev  :  Git • GitHub Actions • Docker • Vercel • Supabase Cloud �
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">📲 <a href="https://github.com/ricardomtnez/invengo">InvenGo! Ecosistema Offline-First</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Architecture-Offline--First_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+      </p>
+      <p align="center"><i>Ecosistema móvil avanzado de gestión de inventarios con sincronización SQLite ↔ Supabase.</i></p>
+      <ul>
+        <li><b>Stack:</b> Flutter, Riverpod 2.6, SQLite (sqflite), Supabase, QR Generator/Scanner, PDF Engine.</li>
+        <li><b>Logros:</b> Operatividad total sin conexión a internet, generación de etiquetas QR imprimibles y reportería en PDF.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/ricardomtnez/invengo"><b>Ver Repositorio & Código →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 <a href="https://github.com/ricardomtnez/kst_business">KST Business</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-Riverpod_2.6_%2B_PDF-2E7D32?style=for-the-badge" />
+      </p>
+      <p align="center"><i>Generador inteligente de cotizaciones y propuestas comerciales automatizadas para Key Solutions.</i></p>
+      <ul>
+        <li><b>Stack:</b> Flutter, Riverpod 2.6, GoRouter, Supabase, PDF Engine, Lottie.</li>
+        <li><b>Logros:</b> Cálculo automatizado de costos, emisión instantánea de contratos PDF membretados y validación reactiva de formularios.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/ricardomtnez/kst_business"><b>Ver Repositorio & Código →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🚛 <a href="https://github.com/ricardomtnez/trailercheck">TrailerCheck</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Enterprise-Mobile_Platform-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Enterprise-Fleet_Inspection-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       </p>
-      <p align="center"><i>Plataforma corporativa de inspección de flotas, auditoría mecánica y comunicación en tiempo real.</i></p>
+      <p align="center"><i>Plataforma corporativa de inspección de flotas, auditoría mecánica y notificaciones en tiempo real.</i></p>
       <ul>
         <li><b>Stack:</b> Flutter, Riverpod, Supabase (RLS), PostgreSQL, TypeScript Edge Functions.</li>
-        <li><b>Logros:</b> Notificaciones push reactivas, captura de video/evidencias offline y automatizaciones serverless con Monday.com.</li>
+        <li><b>Logros:</b> Notificaciones push reactivas, captura multimedia offline y automatizaciones serverless con Monday.com.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/ricardomtnez/trailercheck"><b>Ver Arquitectura & Detalles →</b></a>
@@ -80,27 +111,27 @@ Cloud/Dev  :  Git • GitHub Actions • Docker • Vercel • Supabase Cloud �
           <img src="https://img.shields.io/badge/Live_Website-keysolutionstechnology.com.mx-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
         </a>
       </p>
-      <p align="center"><i>Sitio web corporativo y plataforma de soluciones tecnológicas y consultoría de software.</i></p>
+      <p align="center"><i>Sitio web corporativo y portal digital oficial de consultoría de software y soluciones tecnológicas.</i></p>
       <ul>
-        <li><b>Stack:</b> Web Technologies, Responsive Design, Cloud Hosting.</li>
-        <li><b>Logros:</b> Portal institucional de alta conversión con optimización SEO y catálogo de servicios tecnológicos.</li>
+        <li><b>Stack:</b> Web Technologies, Responsive Design, OpenGraph SEO Optimization.</li>
+        <li><b>Logros:</b> Portal institucional de alta conversión con optimización SEO técnica y catálogo de servicios de TI.</li>
       </ul>
       <p align="center">
-        <a href="https://keysolutionstechnology.com.mx/"><b>Visitar Sitio Web Oficial ↗</b></a>
+        <a href="https://github.com/ricardomtnez/keysolutions"><b>Ver Código</b></a> • <a href="https://keysolutionstechnology.com.mx/"><b>Visitar Sitio Web ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 <a href="https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable">Yess Conta ERP</a></h3>
+      <h3 align="center">📦 <a href="https://github.com/ricardomtnez/inventra">Inventra</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Full--Stack-Accounting_ERP-4F5D95?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hardware-QR_Scanner_Tool-FF6F00?style=for-the-badge" />
       </p>
-      <p align="center"><i>Sistema integral de contabilidad, administración y facturación financiera.</i></p>
+      <p align="center"><i>Aplicación móvil para trazabilidad y control de herramientas y equipos industriales en tiempo real.</i></p>
       <ul>
-        <li><b>Stack:</b> PHP, AngularJS, MySQL, Bootstrap, mPDF.</li>
-        <li><b>Logros:</b> Generación automatizada de reportes contables en PDF, dashboards administrativos y reportería financiera.</li>
+        <li><b>Stack:</b> Flutter, Mobile Scanner, Supabase, Real-time Stock Sync.</li>
+        <li><b>Logros:</b> Auditoría instantánea de herramientas mediante lectura óptica QR y control de préstamos a operadores.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable"><b>Ver Repositorio →</b></a>
+        <a href="https://github.com/ricardomtnez/inventra"><b>Ver Repositorio & Código →</b></a>
       </p>
     </td>
   </tr>
@@ -117,8 +148,6 @@ Cloud/Dev  :  Git • GitHub Actions • Docker • Vercel • Supabase Cloud �
 
 ---
 
-### 📈 Actividad & Contribuciones
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ricardomtnez&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <sub>Construyendo software escalable, de alto rendimiento y enfocado en la experiencia del usuario.</sub>
 </div>
