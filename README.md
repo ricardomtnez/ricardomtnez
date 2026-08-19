@@ -1,24 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24&height=220&section=header&text=Ricardo%20Martínez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Full-Stack%20Software%20Engineer&descFontSize=20&descAlignY=62&descAlign=50" width="100%"/>
-</div>
 
-<div align="center">
-  <br/>
+# 🚀 Ricardo Martínez
+### **Mobile & Full-Stack Software Engineer**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardomtnez)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardomtnez.dev@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardomtnez)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Flutter+%26+Android+Mobile+Specialist;Supabase+%26+PostgreSQL+Architect;Full-Stack+Web+Developer;Building+scalable+%26+real-time+apps" alt="Typing SVG" /></a>
 
-  <br/><br/>
-  
-  <p align="center">
-    Ingeniero de Software especializado en el desarrollo de <b>aplicaciones móviles de alto rendimiento (Flutter / Android)</b> y <b>soluciones empresariales Full-Stack</b>. Con experiencia sólida en arquitecturas reactivas, sincronización offline, bases de datos relacionales con RLS y flujos en tiempo real.
-  </p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardomtnez)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardomtnez.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardomtnez)
+
+<br/><br/>
+
+<p align="center">
+  Ingeniero de Software especializado en el desarrollo de <b>aplicaciones móviles de alto rendimiento (Flutter / Android)</b> y <b>soluciones empresariales Full-Stack</b>. Con experiencia sólida en arquitecturas reactivas, sincronización offline, bases de datos relacionales con RLS y flujos en tiempo real.
+</p>
+
 </div>
 
 ---
 
-### 🚀 Stack Tecnológico & Habilidades
+### 🛠️ Stack Tecnológico & Habilidades
 
 ```ascii
 Mobile     :  Flutter • Dart • Android (Kotlin/Java) • Riverpod • Clean Architecture
@@ -102,8 +105,4 @@ DevOps/Ops :  Git • GitHub Actions • Docker • CI/CD • Scrum / Agile
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricardomtnez&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomtnez&layout=compact&theme=radical&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24&height=100&section=footer" width="100%"/>
 </div>
