@@ -151,7 +151,8 @@ Cloud/Dev  :  Git • GitHub Actions • Docker • Vercel • Supabase Cloud �
 ### 📊 Actividad y Métricas de GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ricardomtnez&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ricardomtnez&theme=tokyo-night&show_icons=true&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ricardomtnez&theme=tokyo-night&layout=compact&hide_border=true" height="175" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardomtnez&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
 </div>
